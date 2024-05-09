@@ -13,7 +13,7 @@ Currently working on:
 - SchemaScan
 - Rewriting my linked list class from my Data Structures & Algorithms course
 - Rewriting my expression tree class from that same course
-- Using said expression tree class to create a program that can do some Calculus
+- Utilizing the expresssion tree solver to create a Calculus solver
 - Updating my GitHub page with projects for data structures, algorithms, and other useful mini-libraries created from scratch in C++ (mosly avoiding the use of the std library except where "unavoidable")
 
 Link to my separate educational profile [here](github.com/aguerreroEDU). Most of my projects here were created with GitHub Education, so I don't think they show up unfortunately. Most things there will be done here but better soon enough, anyways
