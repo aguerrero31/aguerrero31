@@ -9,7 +9,6 @@ Most of my experience at the moment is with C++, but I also have experience with
 Current classes: Calculus II, Software Engineering I
 
 Currently working on:
-- Setting up this github page
 - SchemaScan
 - Rewriting my linked list class from my Data Structures & Algorithms course
 - Rewriting my expression tree class from that same course
